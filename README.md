@@ -20,7 +20,7 @@ Hello! 欢迎使用 解放右键助手(free-your-right-button) for Windows 10！
 
 ## 贡献代码
 1. 打开解压后**ahk-install(AutoHotKey 运行库).exe**文件，进行安装AHK环境；
-2. 编辑AHK脚本；
+2. 阅读[AHK文档](http://ahkcn.sourceforge.net/docs/Tutorial.htm)编辑AHK脚本；
 3. 运行.ahk脚本进行调试；
 4. 调试完成后，右键.ahk脚本文件，点击**Compile Script**，即可生成`.exe`文件；
 5. commit到git仓库，提交PR。
@@ -31,4 +31,4 @@ Hello! 欢迎使用 解放右键助手(free-your-right-button) for Windows 10！
 
 源码：https://github.com/hansenwangvip/free-your-right-button
 
-本软件由AutoHotKey编写，代码开源，保证无毒，放心享用。
+本软件由[AutoHotKey](http://ahkcn.sourceforge.net/docs/Tutorial.htm)编写，代码开源，保证无毒，放心享用。
