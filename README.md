@@ -38,10 +38,10 @@ shell:startup
 ## 贡献代码
 
 1. 打开解压后**auto-hot-key-runtime.exe**文件，安装AHK环境；
-2. 阅读[AHK文档](http://ahkcn.sourceforge.net/docs/Tutorial.htm)编辑AHK脚本；
-3. 运行.ahk脚本进行调试；
-4. 调试完成后，右键.ahk脚本文件，点击**Compile Script**，即可生成`.exe`文件；
-5. commit到git仓库，提交PR。
+2. 阅读[AHK文档](http://ahkcn.sourceforge.net/docs/Tutorial.htm)
+3. 新建分支，编辑ahk脚本；
+3. 运行ahk脚本进行调试，调试时，右键任务栏图标，点击reload即可重载脚本；
+4. 开发完成后提交Pull Request。
 
 ## 关于
 
