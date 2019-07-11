@@ -91,7 +91,7 @@ else if (gtrack = "u"){
 	send #{tab}
 }
 else if (gtrack = "d"){
-	send #d
+	send #{d}
 }
 gtrack=
 return
