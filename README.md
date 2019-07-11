@@ -48,7 +48,7 @@ Windows 10 鼠标右键手势工具，极大提升鼠标操作下的多任务体
 
 兼容性：本脚本只兼容Windows 10操作系统。
 
-源码：<https://github.com/hansenwangvip/Amazing-Right-Button>
+源码：<https://github.com/hansenwangvip/arb>
 
 本软件由[AutoHotKey](http://ahkcn.sourceforge.net/docs/Tutorial.htm)编写，代码开源，保证无毒，放心享用。
 
