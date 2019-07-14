@@ -14,8 +14,8 @@ RBN崇尚极简主义，追求简单易用。
 
 ## 免安装
 
-本软件无需安装，无需设置，[点击立即下载版本v1.0.0](https://github.com/hansenwangvip/right-button-ninja/releases/download/v1.0.0/RBN.right-button-ninja@1.0.0.zip)
-，运行exe文件即可体验。
+本软件无需安装，无需设置，[立即点击下载RBN.right-button-ninja@1.0.1.zip](https://github.com/hansenwangvip/right-button-ninja/releases/download/v1.0.1/RBN.right-button-ninja@1.0.1.zip)
+，解压运行exe文件即可体验。
 
 
 ## 使用
