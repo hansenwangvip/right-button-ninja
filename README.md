@@ -57,15 +57,15 @@ RBN五个关键功能：
 
 本软件永久免费，无广告，无捆绑安装，业界良心！
 
-使用AHK脚本编写，源代码在Github开源，exe文件由AHK本地编译。
-
 兼容性：本脚本只兼容Windows 10操作系统。
+
+使用AHK脚本编写，源代码在Github开源，exe文件由AHK本地编译。
 
 源码：<https://github.com/hansenwangvip/right-button-ninja>
 
 本软件由[AutoHotKey](http://ahkcn.sourceforge.net/docs/Tutorial.htm)编写，代码开源，保证无毒，放心享用。
 
-如果您觉得有用，欢迎Star和宣传，您的鼓励就是我的动力，感谢！
+**如果您觉得有用，欢迎Star和宣传，您的鼓励就是我的动力，感谢！**
 
 # 反馈意见
 
@@ -76,7 +76,7 @@ RBN五个关键功能：
 # 贡献代码
 
 1. 打开解压后**auto-hot-key-runtime.exe**文件，安装AHK环境；
-2. 阅读[AHK文档](http://ahkcn.sourceforge.net/docs/Tutorial.htm)
+2. 阅读[AHK文档](http://ahkcn.sourceforge.net/docs/Tutorial.htm);
 3. 新建分支，编辑ahk脚本；
 3. 运行ahk脚本进行调试，调试时，右键任务栏图标，点击reload即可重载脚本；
 4. 开发完成后提交Pull Request。
