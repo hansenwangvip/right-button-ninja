@@ -1,10 +1,10 @@
-# Right-Button-Ninja(右键忍者) 极简的鼠标手势工具
+# Right-Button-Ninja极简的Win10虚拟桌面手势
 
 Right-Button-Ninja是Windows 10上的一个效率辅助软件，中文名叫“右键忍者”，以下简称"RBN"。
 
 RBN崇尚极简主义，追求简单易用。
 
-RBN让您像忍者一样，鼠标就是您的刀刃，手势就是您的招式。
+RBN让您像忍者一样，鼠标就是您的利刃，手势就是您的忍术。
 
 # 快速上手
 
