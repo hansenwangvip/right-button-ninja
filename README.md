@@ -90,6 +90,11 @@ RBN让您像忍者一样，鼠标就是您的利刃，手势就是您的忍术�
 
 如果您想私下交流，请在软件运行时寻找彩蛋，即可看到我的个人联系方式。
 
+# License
+Right Button Ninja is licensed under the MIT license.
+
+This means you are free to modify and redistribute this program as you wish, but you must include the license and this notice in your version.
+
 # 贡献代码
 
 1. 打开解压后**auto-hot-key-runtime.exe**文件，安装AHK环境；
