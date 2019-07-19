@@ -106,11 +106,11 @@ This means you are free to modify and redistribute this program as you wish, but
 
 # 参考链接
 
+> [# Windows 10 中的多个桌面](https://support.microsoft.com/zh-cn/help/4028538/windows-10-multiple-desktops)
 
-> [参考：# Apple官方介绍：《在多个 Space 中工作》](https://support.apple.com/kb/PH25574?viewlocale=zh_CN&locale=zh_CN)
+> [# 在 Windows 10 中使用多任务处理执行更多操作](https://support.microsoft.com/zh-cn/help/4026282/windows-10-get-more-done-with-multitasking)
+
+> [# Microsoft官方介绍: 《适用于 Windows 10 的触摸板手势》](https://support.microsoft.com/zh-cn/help/4027871/windows-10-touchpad-gestures)
 
 
-> [参考：# Microsoft官方介绍: 《适用于 Windows 10 的触摸板手势》](https://support.microsoft.com/zh-cn/help/4027871/windows-10-touchpad-gestures)
-
-
-> [参考：# PC online文章:《一秒变双系统？Win10虚拟桌面详尽教程》](https://www.pconline.com.cn/win8/560/5608916_all.html)
+> [# PC online文章:《一秒变双系统？Win10虚拟桌面详尽教程》](https://www.pconline.com.cn/win8/560/5608916_all.html)
