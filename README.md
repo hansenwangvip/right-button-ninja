@@ -1,5 +1,7 @@
 # 右键忍者 极简的Win10虚拟桌面手势
 
+> Choose Language：[English](https://github.com/hansenwangvip/right-button-ninja/blob/master/README_EN.md) ｜ 中文
+
 右键忍者（Right-Button-Ninja）是适配Windows 10平台的一个鼠标手势软件，本软件采用AutoHotKey编写，通过识别四个方向的鼠标手势来实现高度模拟触摸板，帮助用户更加方便快捷的管理桌面。
 
 从此使用虚拟桌面不再需要键盘，只要按住鼠标右键轻轻一划，即可畅快体验。
