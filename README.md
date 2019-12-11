@@ -4,10 +4,6 @@
 
 从此使用虚拟桌面不再需要键盘，只要按住鼠标右键轻轻一划，即可畅快体验。
 
-右键忍者崇尚极简主义，追求简单易用，永久免费，绿色无毒。
-
-您可以像忍者一样，鼠标就是您的利刃，手势就是您的忍术。
-
 
 ## 功能演示
 
@@ -89,12 +85,15 @@
 
 如果您在使用过程中，遇到任何问题，可以提issue，我会尽量在24小时内答复。
 
-如果您想私下交流，请在软件运行时寻找彩蛋，即可看到我的个人联系方式。
+# 许可
 
-# License
-Right Button Ninja is licensed under the MIT license.
+右键忍者崇尚极简主义，追求简单易用，永久免费，绿色无毒。
 
-This means you are free to modify and redistribute this program as you wish, but you must include the license and this notice in your version.
+您可以像忍者一样，鼠标就是您的利刃，手势就是您的忍术。
+
+Right Button Ninja是根据 MIT 许可获得许可的。
+
+这意味着您可以随意修改和重新分发该程序，但是您必须在版本中包含许可证和此声明。
 
 # 贡献代码
 
@@ -111,7 +110,7 @@ This means you are free to modify and redistribute this program as you wish, but
 
 > [# 在 Windows 10 中使用多任务处理执行更多操作](https://support.microsoft.com/zh-cn/help/4026282/windows-10-get-more-done-with-multitasking)
 
-> [# Microsoft官方介绍: 《适用于 Windows 10 的触摸板手势》](https://support.microsoft.com/zh-cn/help/4027871/windows-10-touchpad-gestures)
+> [# Microsoft 官方: 《适用于 Windows 10 的触摸板手势》](https://support.microsoft.com/zh-cn/help/4027871/windows-10-touchpad-gestures)
 
 
 > [# PC online文章:《一秒变双系统？Win10虚拟桌面详尽教程》](https://www.pconline.com.cn/win8/560/5608916_all.html)
