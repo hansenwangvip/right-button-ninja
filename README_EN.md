@@ -20,19 +20,19 @@ This software does not need to be installed or set, [click to download version v
 
 Swipe up gesture
 
-![Upward swipe gesture] (./ imgs / slide-up.gif)
+![上划手势](./imgs/slide-up.gif)
 
 Swipe down gesture
 
-![Dow gesture] (./ imgs / slide-down.gif)
+![下划手势](./imgs/slide-down.gif)
 
 Left swipe gesture
 
-![Left swipe gesture] (./ imgs / slide-left.gif)
+![左划手势](./imgs/slide-left.gif)
 
 4. Right swipe gesture
 
-![Right swipe gesture] (./ imgs / slide-right.gif)
+![右划手势](./imgs/slide-right.gif)
 
 
 ## use
@@ -67,7 +67,7 @@ Some commonly used advanced techniques:
 5. If you want to turn off auto-start, repeat steps 1, 2, and 3, and then delete the files that do not start automatically.
 4. The new version of windows10 will display the timeline in the task view, which will reduce the performance of the virtual desktop. If you do n’t use the timeline, you can turn off your account timeline in "Settings-Privacy-Activity History-Show Account Activity" to improve the smoothness of the virtual desktop. Reference screenshot:
 
-![Close timeline] (./ imgs / turn-off-timeline.png)
+![关闭时间线](./imgs/turn-off-timeline.png)
 
 # About
 
