@@ -1,33 +1,11 @@
 # Right Ninja Minimal Windows 10 Virtual Desktop Gesture
 
 > Choose Language：English ｜ [中文](https://github.com/hansenwangvip/right-button-ninja/edit/master/README.md)
+Right-Button-Ninja is a mouse gesture software customized for Windows 10.
 
-Right-Button-Ninja is a mouse gesture software that adapts to the Windows 10 platform. This software is written in AutoHotKey and realizes a highly simulated touchpad by identifying mouse gestures in four directions, helping users to manage the desktop more conveniently and quickly .
+This software recognizes the four directions of mouse gestures to realize simulated touchpad gestures, helping users to manage virtual desktops more conveniently and quickly.
 
-You no longer need a keyboard to use the virtual desktop. Just hold down the right mouse button and swipe, and you can experience it.
-
-
-## Demo
-
-** Gesture usage: Start from any position, press and hold the right mouse button, then slide the mouse neatly, release the right button immediately. **
-
-Swipe up gesture
-
-! [Upward swipe gesture] (./ imgs / slide-up.gif)
-
-Swipe down gesture
-
-! [Dow gesture] (./ imgs / slide-down.gif)
-
-Left swipe gesture
-
-! [Left swipe gesture] (./ imgs / slide-left.gif)
-
-4. Right swipe gesture
-
-! [Right swipe gesture] (./ imgs / slide-right.gif)
-
-
+Just hold down the right mouse button and swipe, and you can experience it.
 
 # Quick start
 
@@ -35,6 +13,26 @@ Left swipe gesture
 
 This software does not need to be installed or set, [click to download version v1.0.1 now] (https://github.com/hansenwangvip/right-button-ninja/releases/download/v1.0.1/RBN.right-button-ninja@ 1.0.1.zip)
 , Run the exe file to experience.
+
+## Demo
+
+** Gesture usage: Start from any position, press and hold the right mouse button, then slide the mouse neatly, release the right button immediately. **
+
+Swipe up gesture
+
+![Upward swipe gesture] (./ imgs / slide-up.gif)
+
+Swipe down gesture
+
+![Dow gesture] (./ imgs / slide-down.gif)
+
+Left swipe gesture
+
+![Left swipe gesture] (./ imgs / slide-left.gif)
+
+4. Right swipe gesture
+
+![Right swipe gesture] (./ imgs / slide-right.gif)
 
 
 ## use
@@ -69,7 +67,7 @@ Some commonly used advanced techniques:
 5. If you want to turn off auto-start, repeat steps 1, 2, and 3, and then delete the files that do not start automatically.
 4. The new version of windows10 will display the timeline in the task view, which will reduce the performance of the virtual desktop. If you do n’t use the timeline, you can turn off your account timeline in "Settings-Privacy-Activity History-Show Account Activity" to improve the smoothness of the virtual desktop. Reference screenshot:
 
-! [Close timeline] (./ imgs / turn-off-timeline.png)
+![Close timeline] (./ imgs / turn-off-timeline.png)
 
 # About
 
