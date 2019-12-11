@@ -2,12 +2,18 @@
 
 > Choose Language：[English](https://github.com/hansenwangvip/right-button-ninja/blob/master/README_EN.md) ｜ 中文
 
-右键忍者（Right-Button-Ninja）是适配Windows 10平台的一个鼠标手势软件.
+右键忍者（Right-Button-Ninja）是为 Windows 10 系统定制的一个鼠标手势软件.
 
 本软件通过识别鼠标手势的四个方向来实现模拟触摸板手势，帮助用户更加方便快捷的管理虚拟桌面。
 
 只要按住鼠标右键轻轻一划，即可畅快体验。
 
+# 快速上手
+
+## 安装
+
+本软件无需安装，无需设置，[点击立即下载版本v1.0.1](https://github.com/hansenwangvip/right-button-ninja/releases/download/v1.0.1/RBN.right-button-ninja@1.0.1.zip)
+，运行exe文件即可体验。
 
 ## 功能演示
 
@@ -28,15 +34,6 @@
 4. 右划手势
 
 ![右划手势](./imgs/slide-right.gif)
-
-
-
-# 快速上手
-
-## 安装
-
-本软件无需安装，无需设置，[点击立即下载版本v1.0.1](https://github.com/hansenwangvip/right-button-ninja/releases/download/v1.0.1/RBN.right-button-ninja@1.0.1.zip)
-，运行exe文件即可体验。
 
 
 ## 使用
