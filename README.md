@@ -84,12 +84,6 @@
 
 如果您在使用过程中，遇到任何问题，可以提issue，我会尽量在24小时内答复。
 
-# 许可
-
-Right Button Ninja 使用 MIT 许可。
-
-这意味着您可以随意修改和重新分发该程序，但是您必须在版本中包含MIT许可证和此声明。
-
 # 贡献代码
 
 1. 打开解压后**auto-hot-key-runtime.exe**文件，安装AHK环境；
@@ -107,5 +101,8 @@ Right Button Ninja 使用 MIT 许可。
 
 > [# Microsoft 官方: 《适用于 Windows 10 的触摸板手势》](https://support.microsoft.com/zh-cn/help/4027871/windows-10-touchpad-gestures)
 
+# 许可
 
-> [# PC online文章:《一秒变双系统？Win10虚拟桌面详尽教程》](https://www.pconline.com.cn/win8/560/5608916_all.html)
+Right Button Ninja 使用 MIT 许可。
+
+这意味着您可以随意修改和重新分发该程序，但是您必须在版本中包含MIT许可证和此声明。
