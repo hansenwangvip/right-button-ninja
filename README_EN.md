@@ -1,6 +1,7 @@
 # Right Ninja Minimal Windows 10 Virtual Desktop Gesture
 
 > Choose Language：English ｜ [中文](https://github.com/hansenwangvip/right-button-ninja/edit/master/README.md)
+
 Right-Button-Ninja is a mouse gesture software customized for Windows 10.
 
 This software recognizes the four directions of mouse gestures to realize simulated touchpad gestures, helping users to manage virtual desktops more conveniently and quickly.
