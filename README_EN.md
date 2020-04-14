@@ -13,7 +13,7 @@ Just hold down the right mouse button and swipe, and you can experience it.
 ## Installation
 
 This software does not need to be installed or set.
-[click to download](https://github.com/hansenwangvip/right-button-ninja/releases/download/v1.0.1/RBN.right-button-ninja@1.0.1.zip), Run the exe file to experience.
+[Click me to download](https://github.com/hansenwangvip/right-button-ninja/releases/download/v1.0.1/RBN.right-button-ninja@1.0.1.zip), Run the exe file to experience.
 
 ## Demo
 
