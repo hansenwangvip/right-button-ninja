@@ -17,7 +17,7 @@ This software does not need to be installed or set.
 
 ## Demo
 
-** Gesture usage: Start from any position, press and hold the right mouse button, then slide the mouse neatly, release the right button immediately. **
+**Gesture usage: Start from any position, press and hold the right mouse button, then slide the mouse neatly, release the right button immediately.**
 
 Swipe up gesture
 
