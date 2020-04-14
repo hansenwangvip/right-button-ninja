@@ -1,112 +1,117 @@
-> Choose Language：[English](https://github.com/hansenwangvip/right-button-ninja/blob/master/README_EN.md) ｜ 中文
+# Right-Button-Ninja: A Minimal Windows 10 Virtual Desktop Gesture Tool
 
-# 右键忍者 极简的Win10虚拟桌面手势
+> Choose Language：English ｜ [中文](https://github.com/hansenwangvip/right-button-ninja/edit/master/README.md)
 
-右键忍者（Right-Button-Ninja）是为 Windows 10 系统定制的一个鼠标手势软件。通过识别鼠标手势的四个方向来模拟触摸板，帮你更高效地使用虚拟桌面。
+Right-Button-Ninja is a mouse gesture software customized for Windows 10.
 
-右键忍者崇尚极简主义，追求简单易用，永久免费，绿色无毒。
+This software recognizes the four directions of mouse gestures to realize simulated touchpad gestures, helping users to manage virtual desktops more conveniently and quickly.
 
-让您像忍者一样，把鼠标当作飞镖，手势就是忍术。
+Just hold down the right mouse button and swipe, and you can experience it.
 
-# 快速上手
+# Quick start
 
-## 安装
+## Installation
 
-本软件无需安装，无需设置，[点击立即下载版本v1.0.1](https://github.com/hansenwangvip/right-button-ninja/releases/download/v1.0.1/RBN.right-button-ninja@1.0.1.zip)
-，运行exe文件即可体验。
+This software does not need to be installed or set.
+[Click me to download](https://github.com/hansenwangvip/right-button-ninja/releases/download/v1.0.1/RBN.right-button-ninja@1.0.1.zip), Run the exe file to experience.
 
-## 功能演示
+## Demo
 
-**手势用法：从任意位置开始，按住鼠标右键，然后干脆利落地滑动鼠标，立即松开右键。**
+** Gesture usage: Start from any position, press and hold the right mouse button, then slide the mouse neatly, release the right button immediately. **
 
-1. 上划手势（多任务视图）
+Swipe up gesture
 
 ![上划手势](./imgs/slide-up.gif)
 
-2. 下划手势（显示桌面）
+Swipe down gesture
 
 ![下划手势](./imgs/slide-down.gif)
 
-3. 左划手势（切到右边的虚拟桌面）
+Left swipe gesture
 
 ![左划手势](./imgs/slide-left.gif)
 
-4. 右划手势（切到左边的虚拟桌面）
+4. Right swipe gesture
 
 ![右划手势](./imgs/slide-right.gif)
 
 
-## 使用
+## use
 
-### 5个关键功能
+### 5 key features
 
-从任意位置开始，按住鼠标右键滑动鼠标，然后立即松开右键。
+Starting from any position, hold down the right mouse button, then slide the mouse cleanly and immediately release the right mouse button.
 
-1. 总开关：控制暂停或恢复软件的运行，快捷键`ALT + WIN + P`。
-2. 向上划：显示多任务视图。
-3. 向下划：显示桌面。
-4. 向左划：移动到右边的虚拟桌面。
-5. 向右划：移动到左边的虚拟桌面。
+1. Master switch: control the operation of pausing or resuming the software. Shortcut key `ALT + WIN + P`.
+2. Swipe up: Show multitasking view.
+3. Swipe down: Show desktop.
+4. Swipe left: move to the virtual desktop on the right.
+5. Swipe right: Move to the virtual desktop on the left.
 
-### 辅助功能
+### Accessibility
 
-1. 查看帮助：`ALT + WIN + H`
-2. 查看关于：`ALT + WIN + L`
-
-### 开机启动
-1. 按快捷键：`WIN + R`；
-2. 输入`shell:startup`，按回车；
-3. 弹出了一个文件夹窗口；
-4. 然后将RBN的exe文件复制进去，下次开机即可自启动；
-5. 如果要关闭自启动，只需按照同样的步骤**删除该文件**即可。
-
-## 使用小提示：
-
-1. 在多任务视图中，单击鼠标中键即可关闭桌面或者窗口，您也可以任意拖拽窗口到别的桌面。
-2. windows10的新版本会在任务视图中显示时间线，偶尔会导致虚拟桌面卡顿，影响体验。
-
-> 你可以在"设置-隐私-活动历史记录-显示账户活动"中，关闭账户时间线，以提高虚拟桌面的流畅度。参考截图：
-> ![关闭时间线](./imgs/turn-off-timeline.png)
-
-# 关于
-
-本软件永久免费，无广告，无捆绑安装！
-
-兼容性：本软件只兼容 Windows 10 操作系统。
-
-本软件由[AutoHotKey](http://ahkcn.sourceforge.net/docs/Tutorial.htm)编写，代码开源。
-
-源码：<https://github.com/hansenwangvip/right-button-ninja>
-
-**如果您觉得有用，欢迎Star和宣传，您的鼓励就是我的动力，感谢！**
-
-# 反馈意见
-
-如果您在使用过程中，遇到任何问题，可以提issue，我会尽量在24小时内答复。
-
-# 贡献代码
-
-1. 打开解压后**auto-hot-key-runtime.exe**文件，安装AHK环境；
-2. 阅读[AHK文档](http://ahkcn.sourceforge.net/docs/Tutorial.htm);
-3. 新建分支，编写ahk脚本；
-4. 调试：编写ahk脚本时，右键任务栏图标，点击reload即可重载脚本；
-5. 开发完成后提交Pull Request。
-
-# TODO
-
-1. 添加GUI配置窗口，让软件可配置。
+1. View help: `ALT + WIN + H`
+2. View about: `ALT + WIN + L`
 
 
-# 参考链接
+# Advanced techniques
 
-> [# Windows 10 中的多个桌面](https://support.microsoft.com/zh-cn/help/4028538/windows-10-multiple-desktops)
+Some commonly used advanced techniques:
 
-> [# 在 Windows 10 中使用多任务处理执行更多操作](https://support.microsoft.com/zh-cn/help/4026282/windows-10-get-more-done-with-multitasking)
+1. In multitasking view, click the middle mouse button to close the desktop or window.
+2. Swipe up to open the multi-tasking view. You can drag the window to other desktops.
+3. How to make the script boot automatically?
+1. Press the shortcut key: `WIN + R`
+2. Enter `shell: startup` and press Enter
+3. A folder window pops up
+4. Then copy the RBN exe file into it, it will start automatically next time you boot
+5. If you want to turn off auto-start, repeat steps 1, 2, and 3, and then delete the files that do not start automatically.
+4. The new version of windows10 will display the timeline in the task view, which will reduce the performance of the virtual desktop. If you do n’t use the timeline, you can turn off your account timeline in "Settings-Privacy-Activity History-Show Account Activity" to improve the smoothness of the virtual desktop. Reference screenshot:
 
-> [# Microsoft 官方: 《适用于 Windows 10 的触摸板手势》](https://support.microsoft.com/zh-cn/help/4027871/windows-10-touchpad-gestures)
+![关闭时间线](./imgs/turn-off-timeline.png)
 
-# 许可
+# About
 
-Right Button Ninja 使用 MIT 许可。
+This software is free forever, no ads, no bundled installation, industry conscience!
 
-这意味着您可以随意修改和重新分发该程序，但是您必须在版本中包含MIT许可证和此声明。
+Compatibility: This software is only compatible with Windows 10 operating system.
+
+This software is written by [AutoHotKey] (http://ahkcn.sourceforge.net/docs/Tutorial.htm), the code is open source, guaranteed non-toxic, and enjoyed with ease.
+
+Source: <https://github.com/hansenwangvip/right-button-ninja>
+
+** If you find it useful, welcome Star and publicity, your encouragement is my motivation, thanks! **
+
+# Feedback
+
+If you encounter any problems during use, you can raise an issue and I will try to reply within 24 hours.
+
+# Permission
+
+Right Ninja advocates minimalism, pursues simplicity, is free forever, and is green and non-toxic.
+
+You can be like a ninja, the mouse is your sharp blade, and the gesture is your ninjutsu.
+
+Right Button Ninja is licensed under the MIT license.
+
+This means that you are free to modify and redistribute the program, but you must include the license and this statement in your version.
+
+# Contribute code
+
+1. Open the ** auto-hot-key-runtime.exe ** file after decompression and install the AHK environment;
+2. Read [AHK Document] (http://ahkcn.sourceforge.net/docs/Tutorial.htm);
+3. Create new branch and write ahk script;
+4. Debugging: When writing ahk script, right-click the taskbar icon and click reload to reload the script;
+5. Submit a Pull Request after development is complete.
+
+
+# Reference link
+
+> [# Multiple Desktops in Windows 10] (https://support.microsoft.com/en-us/help/4028538/windows-10-multiple-desktops)
+
+> [# Do More with Multitasking in Windows 10] (https://support.microsoft.com/en-us/help/4026282/windows-10-get-more-done-with-multitasking)
+
+> [# Official Microsoft: Touchpad Gestures for Windows 10] (https://support.microsoft.com/en-us/help/4027871/windows-10-touchpad-gestures)
+
+
+> [# PC online article: "Double system in one second? Win10 Virtual Desktop Detailed Tutorial '') (https://www.pconline.com.cn/win8/560/5608916_all.html)
