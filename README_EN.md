@@ -1,4 +1,4 @@
-# Right Ninja Minimal Windows 10 Virtual Desktop Gesture
+# Minimal Windows 10 Virtual Desktop Gesture: Right-Button-Ninja
 
 > Choose Language：English ｜ [中文](https://github.com/hansenwangvip/right-button-ninja/edit/master/README.md)
 
