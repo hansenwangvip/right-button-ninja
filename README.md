@@ -19,21 +19,21 @@ This software does not need to be installed or set.
 
 **Gesture usage: Start from any position, press and hold the right mouse button, then slide the mouse neatly, release the right button immediately.**
 
-Swipe up gesture
+- Swipe up gesture
 
-![上划手势](./imgs/slide-up.gif)
+	![上划手势](./imgs/slide-up.gif)
 
-Swipe down gesture
+- Swipe down gesture
 
-![下划手势](./imgs/slide-down.gif)
+	![下划手势](./imgs/slide-down.gif)
 
-Left swipe gesture
+- Left swipe gesture
 
-![左划手势](./imgs/slide-left.gif)
+	![左划手势](./imgs/slide-left.gif)
 
-4. Right swipe gesture
+- Right swipe gesture
 
-![右划手势](./imgs/slide-right.gif)
+	![右划手势](./imgs/slide-right.gif)
 
 
 ## use
@@ -95,7 +95,7 @@ This means that you are free to modify and redistribute the program, but you mus
 # Contribution
 
 1. Open the ** auto-hot-key-runtime.exe ** file after decompression and install the AHK environment;
-2. Read [AHK Document] (http://ahkcn.sourceforge.net/docs/Tutorial.htm);
+2. Read [AHK Tutorial](http://ahkcn.sourceforge.net/docs/Tutorial.htm);
 3. Create new branch and write ahk script;
 4. Debugging: When writing ahk script, right-click the taskbar icon and click reload to reload the script;
 5. Submit a Pull Request after development is complete.
@@ -103,11 +103,7 @@ This means that you are free to modify and redistribute the program, but you mus
 
 # References
 
-> [# Multiple Desktops in Windows 10] (https://support.microsoft.com/en-us/help/4028538/windows-10-multiple-desktops)
-
-> [# Do More with Multitasking in Windows 10] (https://support.microsoft.com/en-us/help/4026282/windows-10-get-more-done-with-multitasking)
-
-> [# Official Microsoft: Touchpad Gestures for Windows 10] (https://support.microsoft.com/en-us/help/4027871/windows-10-touchpad-gestures)
-
-
-> [# PC online article: "Double system in one second? Win10 Virtual Desktop Detailed Tutorial '') (https://www.pconline.com.cn/win8/560/5608916_all.html)
+- [# Multiple Desktops in Windows 10](https://support.microsoft.com/en-us/help/4028538/windows-10-multiple-desktops)
+- [# Do More with Multitasking in Windows 10](https://support.microsoft.com/en-us/help/4026282/windows-10-get-more-done-with-multitasking)
+- [# Official Microsoft: Touchpad Gestures for Windows 10](https://support.microsoft.com/en-us/help/4027871/windows-10-touchpad-gestures)
+- [# "Double system in one second? Win10 Virtual Desktop Detailed Tutorial ''](https://www.pconline.com.cn/win8/560/5608916_all.html)
