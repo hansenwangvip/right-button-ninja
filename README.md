@@ -82,11 +82,7 @@ Source: <https://github.com/hansenwangvip/right-button-ninja>
 
 ** If you find it useful, welcome Star and publicity, your encouragement is my motivation, thanks! **
 
-# Feedback
-
-If you encounter any problems during use, you can raise an issue and I will try to reply within 24 hours.
-
-# Permission
+# License
 
 Right Ninja advocates minimalism, pursues simplicity, is free forever, and is green and non-toxic.
 
@@ -96,7 +92,7 @@ Right Button Ninja is licensed under the MIT license.
 
 This means that you are free to modify and redistribute the program, but you must include the license and this statement in your version.
 
-# Contribute code
+# Contribution
 
 1. Open the ** auto-hot-key-runtime.exe ** file after decompression and install the AHK environment;
 2. Read [AHK Document] (http://ahkcn.sourceforge.net/docs/Tutorial.htm);
@@ -105,7 +101,7 @@ This means that you are free to modify and redistribute the program, but you mus
 5. Submit a Pull Request after development is complete.
 
 
-# Reference link
+# References
 
 > [# Multiple Desktops in Windows 10] (https://support.microsoft.com/en-us/help/4028538/windows-10-multiple-desktops)
 
