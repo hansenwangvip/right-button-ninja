@@ -1,6 +1,6 @@
 # Right-Button-Ninja: A Minimal Windows 10 Virtual Desktop Gesture Tool
 
-> Choose Language：English ｜ [中文](https://github.com/hansenwangvip/right-button-ninja/edit/master/README.md)
+> Choose Language：English ｜ [中文](https://github.com/hansenwangvip/right-button-ninja/blob/master/README_CN.md)
 
 Right-Button-Ninja is a mouse gesture software customized for Windows 10.
 
