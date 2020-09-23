@@ -1,4 +1,4 @@
-> Choose Language：[English](https://github.com/hansenwangvip/right-button-ninja/blob/master/README.md) ｜ 中文
+> Choose Language：[English](https://github.com/hansenwangvip/right-button-ninja/blob/master/README_EN.md) ｜ 中文
 
 # 右键忍者 极简的Win10虚拟桌面手势
 
