@@ -6,7 +6,7 @@
 
 ## 安装
 
-本软件无需安装，[点击立即下载版本v1.0.1](https://github.com/hansenwangvip/right-button-ninja/releases/download/v1.0.1/RBN.right-button-ninja@1.0.1.zip)
+本软件无需安装，[点击立即下载最新版本](https://github.com/hansenwangvip/right-button-ninja/releases/download/v1.0.1/RBN.right-button-ninja@1.0.1.zip)
 ，运行exe文件。
 
 ## 使用
