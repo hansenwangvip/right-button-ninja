@@ -1,6 +1,7 @@
-# Right-Button-Ninja: A Simple Windows Virtual Desktop Gesture Tool
 
-> [查看中文说明](https://github.com/hansenwangvip/right-button-ninja/blob/master/README_CN.md)
+> Language：[简体中文](https://github.com/hansenwangvip/right-button-ninja/blob/master/README_CN.md) ｜ English
+
+# Right-Button-Ninja: A Simple Windows Virtual Desktop Gesture Tool
 
 Right-Button-Ninja is a mouse gesture software customized for Windows 10 and Windows 11.
 
