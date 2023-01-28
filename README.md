@@ -1,5 +1,5 @@
 
-> Language：[简体中文](https://github.com/hansenwangvip/right-button-ninja/blob/master/README_CN.md) ｜ English
+> Language：English | [简体中文](https://github.com/hansenwangvip/right-button-ninja/blob/master/README_CN.md)
 
 # Right-Button-Ninja: A Simple Windows Virtual Desktop Gesture Tool
 
