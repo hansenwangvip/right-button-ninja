@@ -1,4 +1,4 @@
-> Language：简体中文 | [English](https://github.com/hansenwangvip/right-button-ninja/blob/master/README_EN.md)
+> Language：简体中文 | [English](https://github.com/hansenwangvip/right-button-ninja/blob/master/README.md)
 
 # 右键忍者 极简的 Windows 虚拟桌面助手
 
